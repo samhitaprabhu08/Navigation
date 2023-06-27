@@ -11,6 +11,7 @@
 		A866BF262A4B24CF008C84CB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A866BF252A4B24CF008C84CB /* ContentView.swift */; };
 		A866BF282A4B24D5008C84CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A866BF272A4B24D5008C84CB /* Assets.xcassets */; };
 		A866BF2B2A4B24D5008C84CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A866BF2A2A4B24D5008C84CB /* Preview Assets.xcassets */; };
+		A866BF322A4B2911008C84CB /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A866BF312A4B2911008C84CB /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A866BF252A4B24CF008C84CB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A866BF272A4B24D5008C84CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A866BF2A2A4B24D5008C84CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A866BF312A4B2911008C84CB /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A866BF232A4B24CF008C84CB /* NavigationApp.swift */,
 				A866BF252A4B24CF008C84CB /* ContentView.swift */,
+				A866BF312A4B2911008C84CB /* SecondView.swift */,
 				A866BF272A4B24D5008C84CB /* Assets.xcassets */,
 				A866BF292A4B24D5008C84CB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A866BF322A4B2911008C84CB /* SecondView.swift in Sources */,
 				A866BF262A4B24CF008C84CB /* ContentView.swift in Sources */,
 				A866BF242A4B24CF008C84CB /* NavigationApp.swift in Sources */,
 			);
